@@ -18,7 +18,7 @@ namespace SHORTCUTBAR
         //-------[ Plugin metadata ]-------
 
         // >>> Make sure you rename BOTH the namespace and class (Very important)
-        public string Description => "Blast everyone playing the same game";
+        public string Description => "Shortcut Bar that can be integrated in a Custom Layout";
         public string Author => "ircluzar";
         public Version Version => new Version(0, 0, 1);
 
